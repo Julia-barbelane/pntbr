@@ -22,7 +22,7 @@ Pour sauvegarder et encourager le cadre auquel nous aspirons, nous avons défini
 
 **L’accueil :** Faisons en sorte que les personnes – de tous horizons et identités confondues – soient les bienvenues, qu’elles se sentent accueillies dans un espace ouvert et chaleureux. Cela inclut, mais sans s’y limiter, les membres de toute ethnie, culture, nationalité, couleur, statut d’immigration, classe économique et sociale, niveau d’éducation, sexe, orientation sexuelle, identité sexuelle, âge, taille, situation familiale, croyance politique, religion, capacité mentale et physique.
 
-**La bienveillance et la bientraitance :** Rencontrons-nous avec bienveillance, c’est-à-dire la volonté de viser le bien et le bonheur d’autrui, et assurons-nous d’être bien-traitant en s’assurant que notre manière d’agir concrètement va bien dans le sens de la bienveillance.  
+**La bienveillance et la bientraitance :** Rencontrons-nous avec bienveillance, c’est-à-dire la volonté de viser le bien et le bonheur d’autrui, et assurons-nous d’être bien-traitant·e en s’assurant que notre manière d’agir concrètement va bien dans le sens de la bienveillance.  
 
 ### Les comportements que nous voudrions décourager :
 
@@ -32,7 +32,7 @@ Pour sauvegarder et encourager le cadre auquel nous aspirons, nous avons défini
 * insistance alors que quelqu’un vous demande d’arrêter
 * encouragement des comportements ci-dessus.
 
-Que faire si vous vivez une situation qui fait référence à ces consignes ?
+## Que faire si vous vivez une situation qui fait référence à ces consignes ?
 
 Avant toute chose, sachez que vous êtes légitime de dire que vous n’êtes pas à l’aise avec ce qui est en train de se passer. Vous serez pris·e au sérieux.
 
@@ -44,18 +44,22 @@ Avant toute chose, sachez que vous êtes légitime de dire que vous n’êtes pa
 
 Les options sont multiples et dépendent souvent du contexte et des personnes en présence. En règle général, nous préconisons :
 
-Auprès de la personne qui a vécu une expérience négative : vérifiez que c’était bien une situation mal vécue par la personne.
-Si c’est le cas, assurez-vous qu’elle se sente bien
-Demandez-lui si vous pouvez faire quelque chose pour elle.
+**Auprès de la personne qui a vécu une expérience négative :**  
+Vérifiez que c’était bien une situation mal vécue par la personne.
+Si c’est le cas, assurez-vous qu’elle se sente bien.  
+Demandez-lui si vous pouvez faire quelque chose pour elle.  
 Si oui, demandez-lui comment elle souhaite gérer la situation, ou comment elle souhaite que vous la gériez.  
 
-Dans tous les cas, ce qui nous paraît important est de s’adapter aux besoins / aspirations de la personne que vous êtes venu soutenir.
+Dans tous les cas, ce qui nous paraît important est de s’adapter aux besoins/aspirations de la personne que vous êtes venu soutenir.
   
-Auprès de la personne à l’origine de la situation : l’interpeller et vérifier qu’elle est disposée à échanger au sujet de la situation.  
-Si oui, lui demander de s’expliquer sur la situation.
-Sinon, lui proposer d’en reparler plus tard et / ou d’en faire part aux facilitateurs.
+**Auprès de la personne à l’origine de la situation :**   
+L’interpeller et vérifier qu’elle est disposée à échanger au sujet de la situation.  
+Si oui, lui demander de (s’)expliquer sur la situation.
+Prévenir les personnes responsables du Code of Conduct
 
 Il s’agit évidemment d’une proposition non exhaustive qui ne tient pas compte des multiples contextes et personnes. Notre objectif est davantage de conseiller que d’imposer une méthode.
+
+Avec en ligne de mire l'idée que **quelque chose doit-être et sera fait.**
 
 ## À qui puis-je m’adresser ?
 Tou·te·s les participant·e·s recevront, quelques jours avant l’événement, un mail récapitulatif contenant les numéros de téléphone et emails des personnes à contacter et nous les afficherons aussi pendant l’événement pour qu’ils soient accessibles facilement.  
